@@ -154,7 +154,7 @@ jupyter lab
 Open:
 
 ```bash
-Assignment_Problem.ipynb
+Iris Classification.ipynb
 ```
 
 Run all cells to reproduce the results.
