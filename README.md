@@ -136,19 +136,19 @@ All three models achieved perfect classification performance on the test dataset
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/iris-classification.git
+https://github.com/Sujan-Adhikari875/Iris-Classification.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd iris-classification
+cd Transforming
 ```
 
-Launch Jupyter Notebook:
+Launch Jupyter Lab:
 
 ```bash
-jupyter notebook
+jupyter lab
 ```
 
 Open:
